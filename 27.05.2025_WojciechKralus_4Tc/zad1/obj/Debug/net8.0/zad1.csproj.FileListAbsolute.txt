@@ -1,0 +1,14 @@
+C:\Users\bcu001\Desktop\zad1\zad1\obj\Debug\net8.0\zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcu001\Desktop\zad1\zad1\obj\Debug\net8.0\zad1.AssemblyInfoInputs.cache
+C:\Users\bcu001\Desktop\zad1\zad1\obj\Debug\net8.0\zad1.AssemblyInfo.cs
+C:\Users\bcu001\Desktop\zad1\zad1\obj\Debug\net8.0\zad1.csproj.CoreCompileInputs.cache
+C:\Users\bcu001\Desktop\zad1\zad1\bin\Debug\net8.0\zad1.exe
+C:\Users\bcu001\Desktop\zad1\zad1\bin\Debug\net8.0\zad1.deps.json
+C:\Users\bcu001\Desktop\zad1\zad1\bin\Debug\net8.0\zad1.runtimeconfig.json
+C:\Users\bcu001\Desktop\zad1\zad1\bin\Debug\net8.0\zad1.dll
+C:\Users\bcu001\Desktop\zad1\zad1\bin\Debug\net8.0\zad1.pdb
+C:\Users\bcu001\Desktop\zad1\zad1\obj\Debug\net8.0\zad1.dll
+C:\Users\bcu001\Desktop\zad1\zad1\obj\Debug\net8.0\refint\zad1.dll
+C:\Users\bcu001\Desktop\zad1\zad1\obj\Debug\net8.0\zad1.pdb
+C:\Users\bcu001\Desktop\zad1\zad1\obj\Debug\net8.0\zad1.genruntimeconfig.cache
+C:\Users\bcu001\Desktop\zad1\zad1\obj\Debug\net8.0\ref\zad1.dll
